@@ -4,7 +4,9 @@ Meu acervo de livros que encontrei no rolê da vida
 
 Programação
 
-[https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md)
+1- [https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md)
+
+2- https://mega.nz/folder/2pYFhTKY#_IKYIjCXW37pI8aqTrDx0A/folder/WwBgyYQA
 
 Ocultismo:
 
