@@ -6,3 +6,4 @@ Programação
 
 1- [https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md)
 
+2- https://github.com/free-educa/free-livros
